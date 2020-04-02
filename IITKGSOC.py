@@ -47,7 +47,7 @@ for emp in data:
       if(valid(a)):
             jname.append(Set3(emp["n"],emp["i"],emp["d"]))
       else:
-            print(a)      
+            None     
 namec=[]      
 
 with open('info.csv',encoding="utf-8") as csv_file:
