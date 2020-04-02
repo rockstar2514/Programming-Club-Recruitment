@@ -4,12 +4,12 @@ The program can be run by importing the  scraper.py and IITKGSOC.py files and th
 same directory on a computer and running the program with a good enough Internet 
 Connection.
 Steps:-
-1. Import files to a directory on a computer with a working Internet Connection( Do not import info.csv . Program will fail).
+1. Import files to a directory on a computer with a working Internet Connection( Do not import info.csv . Program will fail ).
 2. Now, run scraper.py. This will generate a .csv file.
 3. Now run IITKGSOC.py and the result will come on stdout.
 
 Note- 
-I have made a mistake by naming the Set3 variables as roll and dept. It does not make sense when I use it to store Organization 
+I have made a mistake by naming the Set3 variables as roll and dept.  It does not make sense when I use it to store Organization 
 and Project name too. Please ignore the ethical blunder. 
 
 XXX------------------------------Implementation---Part----------------------------------------------XXX
