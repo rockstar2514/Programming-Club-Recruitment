@@ -1,0 +1,100 @@
+Monica Yao,"""Future-Proofing"" Tedana",INCF
+Emily Thomas,16.4 Open Data for OpenWorm,INCF
+Eugene Lyapustin,360° video filter,FFmpeg
+IASON MANOLOUDIS,3D Traffic Sign Rendering in OSM2World,OpenStreetMap
+ThePhD,7 Years Later: On vector<bool> and optimized Standard Algorithms in libstdc++,GNU Compiler Collection
+Tanay Tummalapalli,[BEAM-6611] A Python Sink for BigQuery with File Loads in Streaming,The Apache Software Foundation
+Ahmed Fathy,[digiKam] Project: Zoomable and Resizable Brush for Healing Clone Tool,KDE Community
+Kumar Mallikarjuna,[GNU Wget] HTTP/2 Test Suite,The GNU Project
+Nadeeshan Gimhana,[OODT-986] A React based new UI for OPSUI,The Apache Software Foundation
+Pranshu Srivastava,`matcher.js` library and `Leaflet.DistortableImage` overhaul,Public Lab
+Christos Chronis,A DIY Robot kit for educators,Open Technologies Aliance - GFOSS
+Frederik Ramcke,A language server for Dhall,Haskell.Org
+Anand,A Neural QA Model for DBpedia - Anand Panchbhai,DBpedia
+Jian Cao,A new framework in support of multiple MPI implementations,Gentoo Foundation
+Gregory S Brownson,"A New Package for Empirical Asset Pricing Research, or EAPR",R project for statistical computing
+Harman Deep Singh,A Next Generation GUI for  Visualizing Big Gridded Data in Python,Earth Science Information Partners
+sudo-panda,A parameterized automata Library for VisualStates tool,JdeRobot - Universidad Rey Juan Carlos
+Jongmin Kim,A Rails 6 package transition in Debian,Ruby
+Margaret Norton,A small proposal for global environmental monitoring with Image Sequencer,Public Lab
+dxld,A stronger foundation for interactive Haskell tooling,Haskell.Org
+mstoeckl,A Wayland application proxy,X.Org Foundation
+ajp,Accountability Classifier from Annotated Data,Red Hen Lab
+Keshavan Seshadri,Active Learning Environment In 3Dmol.js,Open Chemistry
+jguertl,Active Learning for Guided Analytics,KNIME
+Shreevari SP,Activity Masking in rav1e,Mozilla
+Alex Mingfei Sun,Actor support on Ignition,Open Source Robotics Foundation
+Akul Abhilash Pillai,Adapting TriforceAFL for NetBSD kernel fuzzing,The NetBSD Foundation
+Pradyumna Bang,Add blockchain and hyperledger support for the ‘Journal of Open Data Publications’,Open Bioinformatics Foundation
+Sage Muhammad Abdullah,Add Cross-DB JSONField,Django Software Foundation
+Song Qiang,Add Driver Support for AD5940 in the IIO Subsystem,The Linux Foundation
+Vijay Kumar Banerjee,Add Framebuffer driver for Beaglebone Black,RTEMS Project
+Navaneeth Suresh,Add functionality to store an unresolved merge-state,Python Software Foundation
+Manikishan Ghantasala,Add KNF (NetBSD style) clang-format configuration,The NetBSD Foundation
+Amit Joki,Add Multi-Wiki Support to WikiEduDashboard,Wikimedia Foundation
+Pranav Pandey,Add new features on React Native client,Rocket.Chat
+Yash Lamba,Add New Machine Learning Models,Python Software Foundation
+Tejas Joshi,Add new math.h and complex.h functions as built-ins.,GNU Compiler Collection
+Ajat Prabha,Add Plugin Mechanism to the Dashboard,Cloud Native Computing Foundation (CNCF)
+Rucha Deodhar,Add returning to insert,MariaDB Foundation
+Shannon Sequeira,Add subsampling to aster models,R project for statistical computing
+Aswin M Prabhu,Add support for additional delivery channels to Moira,Moira
+berserker1,Add support for bounce processing in core,GNU Mailman
+Elijah Oyekunle,Add Support for Custom Resource Definitions to the Dashboard,Cloud Native Computing Foundation (CNCF)
+Shawn Feng,Add Support for Extra Optimization Solvers to PortfolioAnalytics,R project for statistical computing
+Alejandro Germain,Add support for the OCI runtime spec by implementing a runc stage2,Cloud Native Computing Foundation (CNCF)
+Nikhil Ramakrishnan,Add Support for WOFF2 Fonts to FreeType,FreeType
+Kris Stern,Add Time-dependent Instrument Response Function to IRISpy,Open Astronomy
+Param Bhavsar,Add traditional machine learning algorithms to the Swift TensorFlow library,TensorFlow
+Njagi Mwaniki,Add Variant Graph (VG) support to BioD,Open Bioinformatics Foundation
+Ziao Wang,Add Windows Support for CVE-Binary-Tool,Python Software Foundation
+NilsHoel,Adding  PRU-ICSS drivers to RTEMS on Texas Instrument Sitara SoCs,RTEMS Project
+zed009,Adding (Updating) macOS support to Cuckoo SandBox,The Honeynet Project
+whiterat,Adding and standardizing image processing operations in tf.image,TensorFlow
+Aditya Vitthalrao,Adding Augmented Reality (AR) support to the MapMint4ME Android Application,OSGeo
+Shunji Nishitani,Adding Autocomplete Function in RubyGems.org Search UI,Ruby
+Ryan Lee,Adding Curiosity to TF-Agents,TensorFlow
+Amit Singh,Adding design policy and improving design,Boost C++
+Abdalla mohamed Abounar,Adding Features to Subcircuits,CircuitVerse.org
+Alish Dipani,Adding Magick back-end support and iruby integration to Rubyplot.,Ruby Science Foundation
+ffmancera,Adding missing features in nftables,Netfilter project
+Kartik Sapra,Adding more options in Fabric8-Maven-Plugin for building images,JBoss Community
+Vlad Apetrei,Adding multi-class classification to machine learning backend,Moodle
+sleep-404,Adding new features and Improving DetectionSuite,JdeRobot - Universidad Rey Juan Carlos
+Ziheng Zhou,Adding plotting engine into PerformanceAnalytics package,R project for statistical computing
+Dhayalan Balakrishnan,Adding Privilege escalation functionality to the monkey,The Honeynet Project
+Asami Doi,Adding QEMU/AArch64 Support to Coreboot,coreboot
+Hitesh Kumar Rawat,"Adding SSR, CI/CD, Tests, Geohash, NSFW image classifier, and revamping Datastore and UX",AOSSIE - Australian Open Source Software Innovation and Education
+KunalKushwaha,Adding support for missing resources & missing test coverage in Kubernetes-Client.,JBoss Community
+Moazin,Adding support for OpenType-SVG Fonts to FreeType,FreeType
+Victor Antony,Adding traditional Machine Learning algorithms to Swift for Tensorflow,TensorFlow
+SHREYAS KOWSHIK,Addition Of Baseline Models To Model Zoo,The Julia Language
+Lizabeth Katsnelson,Addition of novel CPTAC proteogenomic datasets to the cBioPortal,cBioPortal for Cancer Genomics
+Xavier Figueroa,Additional Format Support for the Python Libraries,SPDX (Software Product Data Exchange)
+Roberto Hueso Gomez,Advanced Kernel Density Estimation Improvements,mlpack
+Caner Akdaş,"Advanced Node, Edge, Arrow Plugin Library",Computational Biology @ University of Nebraska-Lincoln
+PRAGATI AGRAWAL,Advancement/Improvement of Settings Subsystem. (Zulip-Server),Zulip Open Source Project
+Panagiotis Lantavos,Adversarial Examples for Natural Language Models,"CLiPS, University of Antwerp"
+Angafor Brandon,Agora,AOSSIE - Australian Open Source Software Innovation and Education
+Bomen Derick,Agora Slack Application,AOSSIE - Australian Open Source Software Innovation and Education
+Mukul Kumar,Agora Vote Android Application- Mukul Kumar,AOSSIE - Australian Open Source Software Innovation and Education
+Chirag Singhal,Agora-web Proposal GSOC 2019,AOSSIE - Australian Open Source Software Innovation and Education
+Thanh Trung Dinh,AI Face Recognition with OpenCV DNN module,KDE Community
+Albert Morea,AirMashup for Liquid Galaxy,Liquid Galaxy project
+Rajat Singhal,AirSim Simulator Support for Ardupilot SITL,Ardupilot.org
+Dimitrios Styliaras,Ajax based interface Cscout,Open Technologies Aliance - GFOSS
+Abhishek Chauhan,Alert Redistribution System for Fink : an Apache Spark based Broker for Astronomy,CERN-HSF
+Ashish Jha,Alexa Skill for Rocket.Chat,Rocket.Chat
+Yashas Samaga B L,Allow the OpenCV's DNN module to work with GPUs,OpenCV
+Sukhbir Singh,Amahi 12 Improvements,Amahi
+Vishwas Mittal,Amahi-Anywhere Improvements,Amahi
+Mikhaelle Bueno,Amaya,Catrobat
+Alexey Mogilyovkin,An ambitious step into mariadb developers society,MariaDB Foundation
+Jingrui Li,An application for Céu-Arduino,LabLua
+snowkylin,An Extended Version of “A Concise Handbook of TensorFlow” And A Library of Extended Keras Layers for TF 2.0,TensorFlow
+Caio Tonetti,An Improved Graph Theory IDE,KDE Community
+Daniel Xia,An R package for two new skew-t distributions,R project for statistical computing
+Alaa Salman,Analysis of WARP-V on FireSim with RocketChip,Free and Open Source Silicon Foundation
+Tanmai Khanna,Anaphora Resolution,Apertium
+dev-ritik,Android app improvement,Named Data Networking Project
+Balaji Ramavathu,Android App Improvements,Amahi
