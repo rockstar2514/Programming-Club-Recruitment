@@ -19,17 +19,18 @@ soup= BeautifulSoup(response.content,'html.parser')
 #price_box = soup.find('div', attrs={'class':'price'})
 #price = price_box.text
 #print(price)
-for name_box in soup.find_all('h4',class_="archive-project-card__student-name"):
-    name = name_box.text.strip()
-    print(name)
-    prop=name_box.find_all_next('div',limit=2)
-    project=prop[0].text.strip()
-    print(project)
-    Organization=prop[1].text.strip()
-    Organization=Organization[14: ]
-    print(Organization)
-    with open('info.csv','a',encoding="utf-8") as csv_file:
-        writer = csv.writer(csv_file)
+with open('info.csv','a',encoding="utf-8",newline='') as csv_file:
+     writer = csv.writer(csv_file)
+     writer.writerow(["Name","Project","Organization"])
+     for name_box in soup.find_all('h4',class_="archive-project-card__student-name"):
+        name = name_box.text.strip()
+        print(name)
+        prop=name_box.find_all_next('div',limit=2)
+        project=prop[0].text.strip()
+        print(project)
+        Organization=prop[1].text.strip()
+        Organization=Organization[14: ]
+        print(Organization)
         writer.writerow([name,project,Organization])
 
 		
