@@ -12,7 +12,7 @@ Note-
 I have made a mistake by naming the Set3 variables as roll and dept.  It does not make sense when I use it to store Organization 
 and Project name too. Please ignore the ethical blunder. 
 
-XXX------------------------------Implementation---Part----------------------------------------------XXX
+--------------------------------------Implementation---Part--------------------------------------------------------------
 
 scraper.py
 
