@@ -24,13 +24,13 @@ with open('info.csv','a',encoding="utf-8",newline='') as csv_file:
      writer.writerow(["Name","Project","Organization"])
      for name_box in soup.find_all('h4',class_="archive-project-card__student-name"):
         name = name_box.text.strip()
-        print(name)
+        #print(name)
         prop=name_box.find_all_next('div',limit=2)
         project=prop[0].text.strip()
-        print(project)
+        #print(project)
         Organization=prop[1].text.strip()
         Organization=Organization[14: ]
-        print(Organization)
+        #print(Organization)
         writer.writerow([name,project,Organization])
 
 		
